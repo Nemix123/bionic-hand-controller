@@ -5,7 +5,7 @@ Ovaj projekat predstavlja dokaz koncepta (Proof of Concept) bioničke šake zasn
 ## Pregled Projekta
 Glavni fokus je na replikaciji pokreta ljudske šake koristeći pristupačne materijale (karton i pletene niti) kako bi se usavršila programska logika i motorika pre prelaska na kompleksniju 3D štampanu konstrukciju.
 
----
-Za više informacija o mom radu i ostalim projektima, poseti moj [LinkedIn profil](www.linkedin.com/in/nemanja-bicanin).
+
+Ako te zanima napredak projekta ili želiš da razmenimo iskustva, zaprati me na [LinkedIn-u](https://www.linkedin.com/in/nemanja-bicanin). Piši mi tamo ako imaš neki savet za ruku! 🚀
 
 **Nemanja Bićanin** | [cite_start]Srednjoškolac [cite: 1, 3]
