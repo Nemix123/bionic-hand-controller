@@ -1,11 +1,9 @@
 # Bionic Hand POC: Cardboard Edition
+This project is a Proof of Concept (POC) for a bionic hand based on a string-tendon mechanism. It was developed as a personal "side quest" during my third year of high school with the goal of exploring biomechanics and embedded systems.
 
-Ovaj projekat predstavlja dokaz koncepta (Proof of Concept) bioničke šake zasnovane na **string-tendon mehanizmu**. Razvijen je kao lični "side quest" tokom treće godine srednje škole sa ciljem istraživanja biomehanike i ugrađenih sistema.
+## Project Overview
+The main focus is on replicating human hand movements using accessible materials (cardboard and braided threads) to refine programming logic and motion control before transitioning to a more complex 3D-printed construction.
 
-## Pregled Projekta
-Glavni fokus je na replikaciji pokreta ljudske šake koristeći pristupačne materijale (karton i pletene niti) kako bi se usavršila programska logika i motorika pre prelaska na kompleksniju 3D štampanu konstrukciju.
+If you are interested in the project's progress or want to exchange ideas, follow me on LinkedIn.
 
-
-Ako te zanima napredak projekta ili želiš da razmenimo iskustva, zaprati me na [LinkedIn-u](https://www.linkedin.com/in/nemanja-bicanin).
-
-**Nemanja Bićanin** | 
+##Nemanja Bićanin## |
