@@ -8,4 +8,4 @@ Glavni fokus je na replikaciji pokreta ljudske šake koristeći pristupačne mat
 
 Ako te zanima napredak projekta ili želiš da razmenimo iskustva, zaprati me na [LinkedIn-u](https://www.linkedin.com/in/nemanja-bicanin).
 
-**Nemanja Bićanin** | [cite_start]Srednjoškolac [cite: 1, 3]
+**Nemanja Bićanin** | 
