@@ -6,4 +6,4 @@ The main focus is on replicating human hand movements using accessible materials
 
 If you are interested in the project's progress or want to exchange ideas, follow me on LinkedIn.
 
-##Nemanja Bićanin## |
+Nemanja Bićanin |
